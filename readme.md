@@ -14,7 +14,7 @@ zd is a data protection software for ZFS. zd handles zpool scrubs, dataset and v
 
 
 ## Installation
-Decompress the contents for your system (freebsd.zip or linux.zip) of build into `/usr/local/bin` or the appropriate bin diretory present in your `PATH` variable.
+Decompress the contents for your system (freebsd.zip or linux.zip) from release folder into `/usr/local/bin` or the appropriate bin diretory present in your `PATH` variable.
 
 
 ## Usage

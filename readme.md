@@ -23,6 +23,7 @@ Decompress the contents for your system (freebsd.zip or linux.zip) of build into
 
 ## Configuration
 
+zd.yaml:
 ```
 ---
 tasks:
@@ -80,4 +81,6 @@ $ chown root:root /usr/bin/zd
 
 zd is copyright to Manoel de Souza 2023
 
+These code are free software; you can redistribute it and/or modify it under the terms of the GNU Library General Public License version 2 published by the Free Software Foundation.
 
+This included [go-yaml](https://github.com/go-yaml/yaml) Copyright (c) 2006-2011 Kirill Simonov and Copyright (c) 2011-2019 Canonical Ltd
